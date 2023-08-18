@@ -12,8 +12,9 @@ A curated list of awesome runbook documents, guidebooks, software and resources.
   - [Kubernetes](#kubernetes)
   - [Linux](#linux)
   - [PostgreSQL](#postgresql)
-  - [Misc.](#misc)
+  - [Miscellaneous](#miscellaneous)
 - [Templates](#templates)
+- [Contribute](#contribute)
 
 ## Runbook Software
 
@@ -44,7 +45,7 @@ A curated list of awesome runbook documents, guidebooks, software and resources.
 
 - [Gitlab Troubleshooting / PostgreSQL](https://gitlab.com/gitlab-com/runbooks/-/blob/e0bb673e9b739ed6881c21bc84037abad1a628ad/troubleshooting/postgres.md) - PostgreSQL troubleshooting runbooks managed by Gitlab.
 
-### Misc.
+### Miscellaneous
 
 - [GitLab On-call Run Books](https://gitlab.com/gitlab-com/runbooks/-/tree/master) - A guidance for Gitlab Infrastructure Reliability Engineers and Managers.
 
