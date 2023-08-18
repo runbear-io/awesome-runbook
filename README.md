@@ -1,4 +1,4 @@
-# Awesome Runbook
+# Awesome Runbook [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 A curated list of awesome runbook documents, guidebooks, software and resources.
 
@@ -52,3 +52,7 @@ A curated list of awesome runbook documents, guidebooks, software and resources.
 
 - [SkeltonThatcher/run-book-template](https://github.com/SkeltonThatcher/run-book-template/) - A Run Book / Operations Manual template for modern software systems.
 - [DevOps runbook template](https://www.atlassian.com/software/confluence/templates/devops-runbook) - A Confluence runbook template for DevOps, proposed by Atlassian.
+
+## Contribute
+
+Contributions welcome! Read the [contribution guidelines](contributing.md) first.
