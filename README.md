@@ -8,10 +8,11 @@ A curated list of awesome runbook documents, guidebooks, software and resources.
 
 - [Runbook Software](#runbook-software)
 - [Runbook Documents](#runbook-documents)
+  - [Elasticsearch](#elasticsearch)
   - [Kubernetes](#kubernetes)
-  - [AWS](#aws)
+  - [Linux](#linux)
   - [PostgreSQL](#postgresql)
-- [Articles](#articles)
+  - [Misc.](#misc)
 - [Templates](#templates)
 
 ## Runbook Software
@@ -21,22 +22,19 @@ A curated list of awesome runbook documents, guidebooks, software and resources.
 - [Datadog Workflow Auomation](https://www.datadoghq.com/product/workflow-automation/) - An automation software for remediation processes.
 - [Octopus Deploy / Runbooks](https://octopus.com/docs/runbooks) - A runbook automation tool supported by CI/CD software: Octopus Deploy.
 - [Runbear](https://runbear.io) - AI-powered notebook style runbook automation software.
+- [Rubix](https://github.com/Nurtch/rubix) - Python library that makes it easy to perform common DevOps tasks inside Jupyter Notebooks.
 - [Rundeck](https://www.rundeck.com) - A runbook automation service that enables self-service operations and simplifies routine data center tasks. It is managed by PagerDuty.
 - [Runme](https://runme.dev) - Interactive runbook dev tool.
 
 ## Runbook Documents
 
-### Kubernetes
-
-- [Container Solutions / Kubernetes](https://containersolutions.github.io/runbooks/posts/kubernetes/) - Kubernetes runbooks sponsored by [Container Solutions](https://www.container-solutions.com/).
-
-### AWS
-
-- 
-
 ### Elasticsearch
 
 - [Elasticsearch Runbook](https://davidlu1001.github.io/2020/04/16/ElasticSearch-Runbook/) - A blog post that contains ES runbooks.
+
+### Kubernetes
+
+- [Container Solutions / Kubernetes](https://containersolutions.github.io/runbooks/posts/kubernetes/) - Kubernetes runbooks sponsored by [Container Solutions](https://www.container-solutions.com/).
 
 ### Linux
 
@@ -50,8 +48,7 @@ A curated list of awesome runbook documents, guidebooks, software and resources.
 
 - [GitLab On-call Run Books](https://gitlab.com/gitlab-com/runbooks/-/tree/master) - A guidance for Gitlab Infrastructure Reliability Engineers and Managers.
 
-## Articles
-
 ## Templates
 
 - [SkeltonThatcher/run-book-template](https://github.com/SkeltonThatcher/run-book-template/) - A Run Book / Operations Manual template for modern software systems.
+- [DevOps runbook template](https://www.atlassian.com/software/confluence/templates/devops-runbook) - A Confluence runbook template for DevOps, proposed by Atlassian.
