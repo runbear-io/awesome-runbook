@@ -1,6 +1,7 @@
 # Awesome Runbook [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 A curated list of awesome runbook documents, guidebooks, software, and resources.
+> A curated list of awesome runbook documents, guidebooks, software, and resources.
 
 [What is a runbook?](runbook.md)
 
