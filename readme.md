@@ -2,7 +2,7 @@
 
 A curated list of awesome runbook documents, guidebooks, software and resources.
 
-[What is runbook?](/runbook.md)
+[What is runbook?](runbook.md)
 
 ## Contents
 
@@ -35,11 +35,11 @@ A curated list of awesome runbook documents, guidebooks, software and resources.
 
 ### Kubernetes
 
-- [Container Solutions / Kubernetes](https://containersolutions.github.io/runbooks/posts/kubernetes/) - Kubernetes runbooks sponsored by [Container Solutions](https://www.container-solutions.com/).
+- [Container Solutions / Kubernetes](https://containersolutions.github.io/runbooks/posts/kubernetes/) - Kubernetes runbooks sponsored by [Container Solutions](https://www.container-solutions.com).
 
 ### Linux
 
-- [Container Solutions / Linux](https://containersolutions.github.io/runbooks/posts/linux/) - Linux runbooks sponsored by [Container Solutions](https://www.container-solutions.com/).
+- [Container Solutions / Linux](https://containersolutions.github.io/runbooks/posts/linux/) - Linux runbooks sponsored by Container Solutions.
 
 ### PostgreSQL
 
