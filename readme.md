@@ -26,6 +26,7 @@ A curated list of awesome runbook documents, guidebooks, software and resources.
 - [Rubix](https://github.com/Nurtch/rubix) - Python library that makes it easy to perform common DevOps tasks inside Jupyter Notebooks.
 - [Rundeck](https://www.rundeck.com) - A runbook automation service that enables self-service operations and simplifies routine data center tasks. It is managed by PagerDuty.
 - [Runme](https://runme.dev) - Interactive runbook dev tool.
+- [Runbook](https://github.com/braintree/runbook) - A framework for gradual system automation, written in Ruby and managed by [Braintree](https://www.braintreepayments.com/).
 
 ## Runbook Documents
 
