@@ -49,6 +49,7 @@ A curated list of awesome runbook documents, guidebooks, software and resources.
 ### Miscellaneous
 
 - [GitLab On-call Run Books](https://gitlab.com/gitlab-com/runbooks/-/tree/master) - A guidance for Gitlab Infrastructure Reliability Engineers and Managers.
+- [Shoreline / Pre-built automations & runbooks](https://www.shoreline.io/runbooks) - Shoreline's runbook library.
 
 ## Templates
 
