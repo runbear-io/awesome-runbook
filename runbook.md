@@ -15,6 +15,7 @@ Runbooks streamline routine maintenance tasks. Whether it's server updates, data
 When system failures or emergencies occur, runbooks provide clear guidelines to follow. They contain specific procedures to identify, diagnose, and resolve issues, minimizing downtime.
 
 ### Disaster Recovery
+
 In case of catastrophic failures, runbooks include disaster recovery plans. They guide the recovery of critical systems, ensuring business continuity and minimizing data loss.
 
 ### Compliance and Auditing
@@ -22,8 +23,8 @@ In case of catastrophic failures, runbooks include disaster recovery plans. They
 Runbooks facilitate adherence to regulatory requirements and industry standards. By documenting and standardizing processes, they ensure consistency, aid in audits, and help meet compliance regulations.
 
 ### Onboarding and Training
-Runbooks are valuable tools for training new staff. By outlining standard procedures, they help newcomers understand the systems, enabling quicker integration into the team.
 
+Runbooks are valuable tools for training new staff. By outlining standard procedures, they help newcomers understand the systems, enabling quicker integration into the team.
 
 ----
 
