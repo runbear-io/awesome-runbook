@@ -34,6 +34,6 @@ Replace `{{ENCODED_SECRET}}` with the encoded value from step 2.
 
 Ensure you clear the terminal history or any other temporary locations where the secret may have been exposed. It's crucial to maintain the security of sensitive information.
 
-## Expectation
+## Expected Result
 
 The secret value is intended to be printed out.
