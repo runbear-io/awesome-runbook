@@ -1,9 +1,13 @@
 # Kubernetes Runbooks
 
-A list of runbooks for Kubernetes.
+Runbook documents for Kubernetes.
 
 ## Incident Response
 
 ## Troubleshooting
 
+## Routine Maintenance
+
 ## Tasks
+
+- [Decoding Secrets](/docs/kubernetes/decoding-secrets.md)
