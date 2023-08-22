@@ -38,6 +38,7 @@ A curated list of awesome runbook documents, guidebooks, software, and resources
 
 ### Kubernetes
 
+- [Awesome Runbook / Kubernetes](/docs/kubernetes#readme)
 - [Container Solutions / Kubernetes](https://containersolutions.github.io/runbooks/posts/kubernetes/) - Kubernetes runbooks sponsored by [Container Solutions](https://www.container-solutions.com).
 
 ### Linux
