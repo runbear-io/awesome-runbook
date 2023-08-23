@@ -47,6 +47,7 @@ A curated list of awesome runbook documents, guidebooks, software, and resources
 
 ### PostgreSQL
 
+- [Awesome Runbook / PostgreSQL](/docs/postgresql#readme) - PostgreSQL runbooks managed by [awesome-runbook](https://github.com/runbear-io/awesome-runbook).
 - [Gitlab Troubleshooting / PostgreSQL](https://gitlab.com/gitlab-com/runbooks/-/blob/e0bb673e9b739ed6881c21bc84037abad1a628ad/troubleshooting/postgres.md) - PostgreSQL troubleshooting runbooks managed by Gitlab.
 
 ### Prometheus
