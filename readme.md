@@ -62,7 +62,7 @@ A curated list of awesome runbook documents, guidebooks, software, and resources
 
 ## Templates
 
-- [SkeltonThatcher/run-book-template](https://github.com/SkeltonThatcher/run-book-template/) - A Run Book / Operations Manual template for modern software systems.
+- [SkeltonThatcher/run-book-template](https://github.com/SkeltonThatcher/run-book-template/) - A Runbook / Operations Manual template for modern software systems.
 - [DevOps runbook template](https://www.atlassian.com/software/confluence/templates/devops-runbook) - A Confluence runbook template for DevOps, proposed by Atlassian.
 
 ## Contribute
