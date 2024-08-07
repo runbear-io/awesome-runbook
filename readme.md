@@ -19,7 +19,6 @@ A curated list of awesome runbook documents, guidebooks, software, and resources
 
 ## Runbook Software
 
-- [Airplane](https://airplane.dev) - A developer infrastructure for internal tools. It enables developers to automate workflows and tasks.
 - [Azure Automation](https://azure.microsoft.com/en-us/products/automation) - A process automation tool provided by Microsoft Azure.
 - [Datadog Workflow Automation](https://www.datadoghq.com/product/workflow-automation/) - An automation software for remediation processes.
 - [Doctor Droid](https://github.com/DrDroidLab/playbooks) - A framework for automating investigations.
