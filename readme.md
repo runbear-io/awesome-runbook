@@ -22,6 +22,7 @@ A curated list of awesome runbook documents, guidebooks, software, and resources
 - [Azure Automation](https://azure.microsoft.com/en-us/products/automation) - A process automation tool provided by Microsoft Azure.
 - [Datadog Workflow Automation](https://www.datadoghq.com/product/workflow-automation/) - An automation software for remediation processes.
 - [Doctor Droid](https://github.com/DrDroidLab/playbooks) - A framework for automating investigations.
+- [Linuxfabrik ChecklistFabrik](https://github.com/Linuxfabrik/checklistfabrik) - Open-source runbook tool that turns YAML templates into interactive HTML checklists with Jinja conditionals, reusable includes and a built-in web server.
 - [Octopus Deploy / Runbooks](https://octopus.com/docs/runbooks) - A runbook automation tool supported by CI/CD software: Octopus Deploy.
 - [Runbear](https://runbear.io) - AI-powered notebook-style runbook automation software.
 - [Rubix](https://github.com/Nurtch/rubix) - Python library that makes it easy to perform common DevOps tasks inside Jupyter Notebooks.
