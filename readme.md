@@ -23,6 +23,7 @@ A curated list of awesome runbook documents, guidebooks, software, and resources
 - [Datadog Workflow Automation](https://www.datadoghq.com/product/workflow-automation/) - An automation software for remediation processes.
 - [Doctor Droid](https://github.com/DrDroidLab/playbooks) - A framework for automating investigations.
 - [Octopus Deploy / Runbooks](https://octopus.com/docs/runbooks) - A runbook automation tool supported by CI/CD software: Octopus Deploy.
+- [OpenRunbook](https://github.com/edgex11/OpenRunbook) - Answers on-call questions by walking a knowledge graph — triage commands in order, causes and fixes — with no language model involved. Runs on Neo4j or Axon.
 - [Runbear](https://runbear.io) - AI-powered notebook-style runbook automation software.
 - [Rubix](https://github.com/Nurtch/rubix) - Python library that makes it easy to perform common DevOps tasks inside Jupyter Notebooks.
 - [Rundeck](https://www.rundeck.com) - A runbook automation service that enables self-service operations and simplifies routine data center tasks. It is managed by PagerDuty.
